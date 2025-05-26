@@ -30,9 +30,9 @@ A stunning, AI-powered landing page for **Omlo**, built with ⚡ Next.js. Design
 - Next.js
 - React
 - Tailwind CSS
-- PNPM
+- NPM
 - Custom UI components
-- Dialogs, Carousels, Buttons and more
+- FRAMER MOTION
 
 ---
 
